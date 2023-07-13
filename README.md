@@ -1,6 +1,12 @@
 # Personal Portfolio
 
 This is a personal portfolio website built using HTML, CSS, and JavaScript. It serves as a showcase of your work, skills, and accomplishments, allowing you to present yourself professionally to potential clients or employers.
+## Preview
+![1](https://github.com/abdul-1432/My-portfolio/assets/124916666/60bf75ad-49df-4a13-8b92-b0ad199b7fd3)
+![2](https://github.com/abdul-1432/My-portfolio/assets/124916666/5bc000f2-3d94-4466-834f-e6785c5494cd)
+![3](https://github.com/abdul-1432/My-portfolio/assets/124916666/d2707c76-4518-415e-9ede-11da54eaf05c)
+![4](https://github.com/abdul-1432/My-portfolio/assets/124916666/c1612106-6238-49f5-9064-c47859a9df3d)
+
 
 
 ## Features
